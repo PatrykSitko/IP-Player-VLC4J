@@ -1,0 +1,1 @@
+Copy the DVPlayer folder to 'C:\Program Files' in order to make the shortcut work.
